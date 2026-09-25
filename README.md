@@ -45,6 +45,9 @@ https://3-d-webinar-a8b5egyi5-nexus-34dd.vercel.app/
 
 The purpose of this project was to practice web development, create a visually engaging website, and learn how to deploy a project to the Internet.
 
+## Updates
+Project documentation is continuously improved.
+
 ## 👨‍💻 Author
 
 **HINDHUJA G**
